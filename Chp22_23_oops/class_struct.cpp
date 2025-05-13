@@ -1,0 +1,4 @@
+/*
+    classes make their objects in heap
+    while struct are created on stack
+*/
